@@ -8,8 +8,10 @@ Easy installation using pre-comiled binaries per environment are present [here](
 
 Step 1 : Get the token from your github account from 
          Account -> Settings -> Developer Settings -> Personal Access Tokens
+
 Step 2 : Export the below gitrob environment variable.
          `export GITROB_ACCESS_TOKEN=EEEEEEE4787dcc76423dXXXXXXXXXXXXXXXXXX`
+         
 Step 3 : Run gitrob with your account name.
          `gitrob sandeeplamb`
 
