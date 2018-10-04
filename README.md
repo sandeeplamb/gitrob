@@ -2,7 +2,7 @@
 
 [gitrob](https://github.com/michenriksen/gitrob) is a tool to help find potentially sensitive files pushed to public repositories on Github.
 
-Easy installation using pre-comiled binaries per environment are present [here](https://github.com/michenriksen/gitrob/releases).
+Easy installation using pre-compiled binaries per environment are present [here](https://github.com/michenriksen/gitrob/releases).
 
 # Usage
 
